@@ -87,3 +87,9 @@ export async function GET(request, { params }) {
 → 받아온 JSON 확인
 
 ![Untitled (6)](https://github.com/lusate/airbnb-clone-project-front/assets/95400441/f34e3fc6-f9b2-4f2b-89c4-26a56e7037a1)
+
+![Untitled](https://github.com/lusate/airbnb-clone-project-front/assets/95400441/44f241b8-43ec-47e6-898f-6111bd00425a)
+
+
+![Untitled (1)](https://github.com/lusate/airbnb-clone-project-front/assets/95400441/def85c23-50f9-4604-b981-bb397c5d91b2)
+
